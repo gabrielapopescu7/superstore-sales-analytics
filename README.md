@@ -5,7 +5,7 @@ The goal is to explore sales and profitability across products, regions and disc
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - Source: [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 - Records: ~10k rows
@@ -18,7 +18,7 @@ The goal is to explore sales and profitability across products, regions and disc
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - **Excel**
   - Tables
@@ -32,7 +32,7 @@ The goal is to explore sales and profitability across products, regions and disc
 
 ---
 
-## 🔹 Step 1 – Data Cleaning & Preparation (Excel)
+##  Data Cleaning & Preparation (Excel)
 
 In Excel, I performed the initial data preparation:
 
@@ -49,7 +49,7 @@ I documented these steps in a separate “Data_Cleaning” sheet inside the Exce
 
 ---
 
-## 🔹 Step 2 – Exploratory Data Analysis (Excel, Pivot Tables)
+##  Exploratory Data Analysis (Excel, Pivot Tables)
 
 Using Pivot Tables in Excel, I explored the dataset from multiple angles:
 
@@ -78,7 +78,7 @@ These analyses were used as a foundation for the Power BI dashboards.
 
 ---
 
-## 🔹 Step 3 – Power BI Overview Dashboard
+##  Power BI Overview Dashboard
 
 In **Power BI**, I imported the same Superstore dataset and performed the following:
 
